@@ -5,6 +5,7 @@ public class Erste {
         //write your code her
         System.out.println("hello world" );
         System.out.println("name");
+        System.out.println(12*24);
 
     }
 }
